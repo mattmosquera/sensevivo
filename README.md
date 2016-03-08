@@ -1,0 +1,2 @@
+# sensevivo
+Website architecture.
